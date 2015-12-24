@@ -22,7 +22,7 @@
 
 ## Usage
 
-1. Simply import Normalize.scss at the top of your sass file below any other `@import`'s
+1. Simply import Normalize.scss at the top of your sass file below any other `@import`
 
   `*.scss`
   ```scss
