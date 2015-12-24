@@ -1,6 +1,6 @@
 Package.describe({
 	summary: "A collection of HTML element and attribute style-normalizations.",
-	version: "1.1.2",
+	version: "1.1.3",
 	git: "https://github.com/egladman/meteor-normalize.scss.git"
 });
 
