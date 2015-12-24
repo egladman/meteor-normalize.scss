@@ -7,5 +7,4 @@ Package.describe({
 Package.onUse(function(api) {
 	api.versionsFrom("METEOR@0.9.0");
 	api.use('fourseven:scss@3.4.0-beta');
-	api.addFiles('sass_include_paths.json', 'server');
 });
