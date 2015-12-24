@@ -6,6 +6,6 @@ Package.describe({
 
 Package.onUse(function(api) {
 	api.versionsFrom("METEOR@1.2");
-	api.use('fourseven:scss@3.4.0-beta');
+	api.use('fourseven:scss@3.2');
 	api.addFiles('_normalize.scss', 'client', { isImport: true });
 });
